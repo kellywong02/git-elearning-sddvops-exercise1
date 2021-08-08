@@ -7,4 +7,4 @@
 4) Perform the following additional changes:
       - Amend the existing file: files/inventory.txt, change the existing value from 88 to 100
       - Amend the existing file: files/staff.txt, add James Neo to a new line
-4) Commit your staged changes using the commit message "Added new file: employer.txt with 2 employers, amend inventory value and amend staff.txt added James Neo".
+4) Commit your staged changes using the commit message "Added new file: employer, amend inventory and amend staff added James Neo".
